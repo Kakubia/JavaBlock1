@@ -29,7 +29,7 @@ public class Exercise3 {
 				System.out.println("Categoria Juvenil");
 			}
 		
-		else
+		else if (n>=18 && n<=25)
 			{
 				System.out.println("Categoria Adulto");
 			}
